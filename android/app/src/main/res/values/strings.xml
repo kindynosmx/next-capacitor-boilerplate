@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Next.js Capacitor Boilerplate</string>
+    <string name="title_activity_main">Next.js Capacitor Boilerplate</string>
+    <string name="package_name">com.kindynos.boilerplate</string>
+    <string name="custom_url_scheme">com.kindynos.boilerplate</string>
+</resources>

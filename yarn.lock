@@ -919,11 +919,6 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@capacitor-firebase/authentication@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@capacitor-firebase/authentication/-/authentication-1.4.0.tgz#8dfabee7f8e8dc00528c4713fa7e4bbe9dd44ad5"
-  integrity sha512-e2pENiQzQ0LCnXVRA/aMDTlz7Qrm0Z1HWfb3KemqvxpymzQHaOxdzTMurvYzMgXvqmmVXqzmeykv8S9LOof6+A==
-
 "@capacitor/android@^4.7.3":
   version "4.8.0"
   resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-4.8.0.tgz#e63bb6c9f56834c694b591f4aaf44fe0a59e6364"
