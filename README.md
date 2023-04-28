@@ -1,0 +1,1 @@
+# next-capacitor-boilerplate
