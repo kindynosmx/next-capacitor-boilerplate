@@ -9,8 +9,8 @@ This project uses lot of stuff as:
 - [TypeScript](https://www.typescriptlang.org)
 - [Next.js](https://nextjs.org)
 - [Chakra UI](https://chakra-ui.com)
-- [Eslint](https://eslint.org)
 - [Capacitor](https://capacitorjs.com/)
+- [Eslint](https://eslint.org)
 - [Prettier](https://prettier.io)
 - [Husky](https://github.com/typicode/husky)
 - [Sentry](https://sentry.io/)
@@ -20,8 +20,8 @@ This project uses lot of stuff as:
 
 First of all, install the dependencies to run this app:
 
-- [NodeJS](https://nodejs.org)
-- [Yarn](https://classic.yarnpkg.com/en/docs/cli/install/)
+- [nodejs](https://nodejs.org)
+- [yarn](https://yarnpkg.com/)
 
 ```bash
 # Clone this repository

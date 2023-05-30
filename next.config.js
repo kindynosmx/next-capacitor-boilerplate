@@ -3,21 +3,6 @@ const { withSentryConfig } = require('@sentry/nextjs')
 
 const plugins = []
 
-const withPWA = require('@ducanh2912/next-pwa').default({
-  dest: 'public',
-  disable: process.env.NODE_ENV !== 'production',
-})
-
-plugins.push(withPWA)
-
-const withBundleAnalyzer = require('@next/bundle-analyzer')({
-  enabled: process.env.ANALIZE == 'true',
-})
-
-if (process.env.NODE_ENV === 'development') {
-  plugins.push(withBundleAnalyzer)
-}
-
 const config = {
   experimental: {
     appDir: true,
